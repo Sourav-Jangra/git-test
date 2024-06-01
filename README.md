@@ -1,1 +1,1 @@
-# git-test
+This is my new directory
